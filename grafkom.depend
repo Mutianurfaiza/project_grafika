@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716974229 source:c:\users\diima\documents\grafkom\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
