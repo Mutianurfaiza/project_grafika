@@ -1,0 +1,16 @@
+#ifndef PPP_
+#define PPP_
+
+
+class ppp
+{
+    public:
+        ppp();
+        virtual ~ppp();
+
+    protected:
+
+    private:
+};
+
+#endif // PPP_
